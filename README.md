@@ -79,11 +79,11 @@ GitHub las renderizará automáticamente.
 
 ### Lista de ofertas
 
-![Lista de ofertas](assets/destinoss.png)
+![Lista de ofertas](assets/destinos.png)
 
 ### Crear
 
-![Crear](crear.png)
+![Crear](assets/crear.png)
 
 ### Gestionar
 
