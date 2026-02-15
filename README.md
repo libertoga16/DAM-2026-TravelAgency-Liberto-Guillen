@@ -3,7 +3,7 @@
 **Aplicación web de gestión de ofertas turísticas**
 
 Esta plataforma permite administrar viajes y promociones. Fue desarrollada
-como proyecto para la asignatura de Desarrollo W, utilizando PHP, MySQL
+como proyecto para la asignatura de Sistema de Gestion Empresarial, utilizando PHP, MySQL
 (y XAMPP como servidor local) y una estructura MVC ligera.
 
 ---
@@ -98,6 +98,6 @@ GitHub las renderizará automáticamente.
 ## Autor y créditos
 
 - **Desarrollado por:** Liberto Guillén Álvarez
-- Proyecto académico para la asignatura de Desarrollo Web.
+- Proyecto académico para la asignatura de Sistema de Gestion Empresarial.
 
 ---
