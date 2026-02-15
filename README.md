@@ -75,19 +75,23 @@ GitHub las renderizará automáticamente.
 
 ### Página de inicio
 
-![Página de inicio](assets/screenshots/inicio.png)
+![Página de inicio](assets/inicio.png)
 
 ### Lista de ofertas
 
-![Lista de ofertas](assets/screenshots/ofertas.png)
+![Lista de ofertas](assets/destinoss.png)
 
-### Formulario de creación/edición
+### Crear
 
-![Formulario de creación/edición](assets/screenshots/formulario.png)
+![Crear](crear.png)
 
-### Detalle del viaje
+### Gestionar
 
-![Detalle del viaje](assets/screenshots/detalle.png)
+![Gestionar](assets/gestionar.png)
+
+### Editar
+
+![Detalle del viaje](assets/editar.png)
 
 ---
 
